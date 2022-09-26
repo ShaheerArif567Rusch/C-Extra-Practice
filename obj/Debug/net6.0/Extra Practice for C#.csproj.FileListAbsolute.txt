@@ -1,0 +1,15 @@
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.csproj.AssemblyReference.cache
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.AssemblyInfoInputs.cache
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.AssemblyInfo.cs
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.csproj.CoreCompileInputs.cache
+F:\_C#\Extra Practice for C#\bin\Debug\net6.0\Extra Practice for C#.exe
+F:\_C#\Extra Practice for C#\bin\Debug\net6.0\Extra Practice for C#.deps.json
+F:\_C#\Extra Practice for C#\bin\Debug\net6.0\Extra Practice for C#.runtimeconfig.json
+F:\_C#\Extra Practice for C#\bin\Debug\net6.0\Extra Practice for C#.dll
+F:\_C#\Extra Practice for C#\bin\Debug\net6.0\Extra Practice for C#.pdb
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.dll
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\refint\Extra Practice for C#.dll
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.pdb
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\Extra Practice for C#.genruntimeconfig.cache
+F:\_C#\Extra Practice for C#\obj\Debug\net6.0\ref\Extra Practice for C#.dll
